@@ -1,0 +1,29 @@
+{
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Night Owl",
+  "workbench.colorCustomizations": {
+    "[Night Owl]": {
+      "activityBar.background": "#000C1D",
+      "activityBar.border": "#102a44",
+      "sideBar.background": "#001122",
+      "sideBar.border": "#102a44",
+      "sideBar.foreground": "#8BADC1",
+      "editorCursor.foreground": "#ffd000",
+      "terminalCursor.foreground": "#ffd000"
+    }
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "workbench.sideBar.location": "right",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "bracketPairColorizer.forceIterationColorCycle": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"],
+  "auto-close-tag.SublimeText3Mode": true,
+  "todo-tree.tree.showScanModeButton": false
+}
